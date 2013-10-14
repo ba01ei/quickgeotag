@@ -10,7 +10,7 @@ quickgeotag "Latitude: 123 Longitude: -456" img1 img2 img3
 Dependency
 ==========
 
-Need exiftool. Can be install by:
+Need exiftool. Available from homebrew:
 
 brew install exiftool
 
