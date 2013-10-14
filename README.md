@@ -7,6 +7,14 @@ Instead of calling 'exiftool -GPSLatitude=123 -GPSLatitudeRef=N -GPSLongitude=45
 
 quickgeotag "Latitude: 123 Longitude: -456" img1 img2 img3
 
+Dependency
+==========
+
+Need exiftool. Can be install by:
+
+brew install exiftool
+
+
 My workflow
 ===========
 
